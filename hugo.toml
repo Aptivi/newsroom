@@ -1,0 +1,76 @@
+baseURL = 'https://aptivi.github.io/newsroom/'
+locale = 'en-us'
+title = 'Aptivi Newsroom'
+author = 'Aptivi'
+copyright = 'Copyright © 2014-2026 Aptivi'
+theme = 'risotto'
+
+sectionPagesMenu = "main"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[pagination]
+pagerSize = 3
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "apt"
+
+[params.about]
+title = "Aptivi Newsroom"
+description = "Press releases and other announcements for Aptivi-related projects."
+logo_image = "images/apt.svg"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-globe"
+title = "Aptivi Website"
+url = "https://aptivi.github.io"
+
+[[params.socialLinks]]
+icon = "fa fa-blog"
+title = "Aptivi Blog"
+url = "https://officialaptivi.com"
+
+[[params.socialLinks]]
+icon = "fa fa-blog"
+title = "Aptivi Blog (alt link)"
+url = "https://officialaptivi.wordpress.com"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "Aptivi GitHub"
+url = "https://github.com/Aptivi"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-gitlab"
+title = "Aptivi GitLab"
+url = "https://gitlab.com/Aptivi"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-book"
+title = "Aptivi Manual"
+url = "https://aptivi.gitbook.io"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-twitter"
+title = "X (Twitter)"
+url = "https://x.com/OfficialAptivi"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-bluesky"
+title = "Bluesky"
+url = "https://bsky.app/profile/aptivi.bsky.social"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-mastodon"
+title = "Mastodon"
+url = "https://mastodon.social/@official_aptivi"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-tumblr"
+title = "Tumblr"
+url = "https://tumblr.com/aptivi"

@@ -1,0 +1,15 @@
+:root {
+    /* Override Fira for JetBrains Mono */
+    --font-monospace: var(--apt-font-style-mono);
+}
+
+/* Modifications to Risotto theme to suit Aptivi aesthetics */
+
+.page__body {
+    box-shadow: unset !important;
+    padding: 1rem;
+    border: solid;
+    border-color: var(--apt-accent-1);
+    border-width: var(--apt-styling-border-width);
+    border-radius: var(--apt-styling-border-radius);
+}
