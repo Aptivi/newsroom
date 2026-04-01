@@ -11,6 +11,7 @@ You can also read our newsroom from your favorite RSS feed reader using the belo
 
 * Presses: https://aptivi.github.io/newsroom/press/index.xml
 * Statuses: WIP
+* Advisories: https://aptivi.github.io/newsroom/advisory/index.xml
 * Others: WIP
 
 ## About Aptivi
