@@ -11,13 +11,13 @@ The below CVEs have been fixed as of this release.
 
 ## Medium severity
 
-* [[https://www.cve.org/CVERecord?id=CVE-2026-33536|CVE-2026-33536]] - [[https://github.com/advisories/GHSA-8793-7xv6-82cf|GHSA-8793-7xv6-82cf]]: ImageMagick has an Out-of-bounds Write via InterpretImageFilename
-* [[https://www.cve.org/CVERecord?id=CVE-2026-33535|CVE-2026-33535]] - [[https://github.com/advisories/GHSA-mw3m-pqr2-qv7c|GHSA-mw3m-pqr2-qv7c]]: ImageMagick has an Out-of-Bounds write of a zero byte in its X11 display interaction
+* [CVE-2026-33536](https://www.cve.org/CVERecord?id=CVE-2026-33536) - [GHSA-8793-7xv6-82cf](https://github.com/advisories/GHSA-8793-7xv6-82cf): ImageMagick has an Out-of-bounds Write via InterpretImageFilename
+* [CVE-2026-33535](https://www.cve.org/CVERecord?id=CVE-2026-33535) - [GHSA-mw3m-pqr2-qv7c](https://github.com/advisories/GHSA-mw3m-pqr2-qv7c): ImageMagick has an Out-of-Bounds write of a zero byte in its X11 display interaction
 
 ## Low severity
 
-* [[https://github.com/advisories/GHSA-9r56-3gjq-hqf7|GHSA-9r56-3gjq-hqf7]]: ImageMagick: META reader memory leak in the APP1JPEG input path
-* [[https://github.com/advisories/GHSA-6p22-q7w5-33pg|GHSA-6p22-q7w5-33pg]]: ImageMagick has possible memory leak in ASHLAR coder when action fails
+* [GHSA-9r56-3gjq-hqf7](https://github.com/advisories/GHSA-9r56-3gjq-hqf7): ImageMagick: META reader memory leak in the APP1JPEG input path
+* [GHSA-6p22-q7w5-33pg](https://github.com/advisories/GHSA-6p22-q7w5-33pg): ImageMagick has possible memory leak in ASHLAR coder when action fails
 
 # How to upgrade
 
