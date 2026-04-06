@@ -26,4 +26,4 @@ We are very excited to announce that as of today, the Aptivi branding wallpapers
 | 43:18        | 3440x1440       |
 | 64:27        | 5120x2160       |
 
-This should cover most ultra-wide monitors, including such monitors that are designed for gaming, as the AMOLED-friendly wallpaper variant is available with plain black background. As always, the source files are available in Affinity Studio v3 format, which you can download [here](https://www.affinity.studio/).
+This should cover most ultra-wide monitors, including such monitors that are designed for gaming, as the AMOLED-friendly wallpaper variant is available with plain black background. As always, the source files are available in Affinity Studio v3 format, which you can download [here](https://aptivi.github.io/branding/download). Also, Affinity Studio v3 can be downloaded [here](https://www.affinity.studio/).
