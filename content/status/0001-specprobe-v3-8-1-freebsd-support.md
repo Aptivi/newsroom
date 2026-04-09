@@ -16,3 +16,7 @@ However, the addition of support for FreeBSD does not come without its challenge
 The solution to this challenge was to introduce a tiny wrapper library that makes calls to `dlopen()` and `dlsym()` available, so they work just like in Linux.
 
 We have finally finished adding FreeBSD support for SpecProbe.Software, but the development is not done yet. Stay tuned for a press release once we release this version of SpecProbe.
+
+To get access to SpecProbe demonstration application, you'll need to clone the [source code of SpecProbe](https://github.com/Aptivi/SpecProbe) from GitHub, [install .NET 10.0](https://officialaptivi.wordpress.com/2026/04/08/running-net-10-0-on-freebsd-15-0/) on your FreeBSD 15.0 system, and build the project. Afterwards, run `dotnet path/to/SpecProbe.ConsoleTest.dll`.
+
+Please note that we have only tested this initial support on a FreeBSD 15.0 system.

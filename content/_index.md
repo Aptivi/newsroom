@@ -10,7 +10,7 @@ This is a dedicated news site for Aptivi projects that contains press releases, 
 You can also read our newsroom from your favorite RSS feed reader using the below links:
 
 * Presses: https://aptivi.github.io/newsroom/press/index.xml
-* Statuses: WIP
+* Statuses: https://aptivi.github.io/newsroom/status/index.xml
 * Advisories: https://aptivi.github.io/newsroom/advisory/index.xml
 * Others: https://aptivi.github.io/newsroom/other/index.xml
 
