@@ -11,7 +11,7 @@ As a result, we are very excited to announce that Aptivi Blog has been selected 
 
 ![The Sunshine Blogger Award](/newsroom/images/tsba.png)
 
-If you haven't heard of this award, it's a community-backed award that lets bloggers nominate other bloggers for their useful and engaging content, with eleven answers, eleven questiins, and up to eleven bloggers to nominate.
+If you haven't heard of this award, it's a community-backed award that lets bloggers nominate other bloggers for their useful and engaging content, with eleven answers, eleven questions, and up to eleven bloggers to nominate.
 
 The [WordPress article](https://officialaptivi.wordpress.com/2026/04/02/aptivi-blog-nominated-for-the-sunshine-blogger-award/) about this award in our blog contains an exclusive message from Aptivi's operator written in first person point of view, which shows appreciation for this milestone!
 
