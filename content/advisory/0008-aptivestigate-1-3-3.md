@@ -1,6 +1,6 @@
 +++
 date = '2026-04-26T14:47:33+03:00'
-title = 'Aptivestigate 1.3.3'
+title = 'Aptivestigate 1.3.3 - Security Update Advisory'
 +++
 
 This release of Aptivestigate v1.3.3 includes security bug fixes. We advise users to upgrade to this version of the project to ensure that attack vectors are reduced.
