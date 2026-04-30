@@ -1,6 +1,6 @@
 +++
 date = '2026-04-29T18:22:00+03:00'
-title = 'Aptivi Blog Selected as Nominee for The Sunshine Blogger Award'
+title = 'Aptivi Blog Selected as Nominee for The Sunshine Blogger Award for the second time'
 +++
 
 Aptivi Blog has started its journey on March 2019 when we had been pressing our experiences in technology. Now, the blog has since been expanded to cover many interesting tech-related topics, while still publishing articles about our projects and our experiences, as well as our experiments and our how-to instructions for tech problem solving.
@@ -13,6 +13,6 @@ Our tech-related content has always garnered praises and recognition, and that t
 
 If you haven't heard of this award, it's a community-backed award that lets bloggers nominate other bloggers for their useful and engaging content, with eleven answers, eleven questions, and up to eleven bloggers to nominate.
 
-As a result, we have published an exclusive message to all our readers who are reading our WordPress blog. This exclusive message shows the author's point of view and appreciation for this milestone, and you can read it [here]()!
+As a result, we have published an exclusive message to all our readers who are reading our WordPress blog. This exclusive message shows the author's point of view and appreciation for this milestone, and you can read it [here](https://officialaptivi.wordpress.com/2026/04/30/aptivi-blog-nominated-to-the-sunshine-blogger-award-for-the-second-time/)!
 
 Thank you to all the readers for reading our blog!
