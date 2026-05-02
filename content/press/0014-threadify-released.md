@@ -3,7 +3,7 @@ date = '2026-05-02T15:01:57+03:00'
 title = 'Threadify is now available!'
 +++
 
-Earlier, we have made an article on Aptivi Newsroom that described the process of creating threads in Nitrocid, as you can see [here](/newsroom/content/other/0001-how-nitrocid-manages-threads), where we had introduced a custom thread class that stores the actual thread class and manages it.
+Earlier, we have made an article on Aptivi Newsroom that described the process of creating threads in Nitrocid, as you can see [here](/newsroom/other/0001-how-nitrocid-manages-threads), where we had introduced a custom thread class that stores the actual thread class and manages it.
 
 As a result, applications can now restart threads in a single call to a function, which abstracts the work of having to maintain all the thread properties, such as name and action, yourself when re-creating a new instance of the thread class.
 
