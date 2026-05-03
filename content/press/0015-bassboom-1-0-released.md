@@ -1,6 +1,5 @@
 +++
 date = '2026-05-02T15:52:55+03:00'
-draft = true
 title = 'BassBoom 1.0 is now available'
 +++
 
