@@ -26,7 +26,7 @@ We have also renamed the repositories for consistency, since the WinGet manifest
 
 Redirects will work when you attempt to browse to the old URLs listed, but they will take you to the new organization's name and the new repository name. For local clones, however, you'll have to change the remote settings to point to the new remote URLs based on the repository. To do this, just run the following command:
 
-```
+```shell
 $ git -C path/to/Packaging remote set-url origin https://github.com/Aptivi-Packaging/ChocolateyManifests
 $ git -C path/to/WinGetManifests remote set-url origin https://github.com/Aptivi-Packaging/WinGetManifests
 ```
