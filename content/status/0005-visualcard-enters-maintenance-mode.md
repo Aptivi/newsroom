@@ -3,9 +3,9 @@ date = '2026-05-11T17:28:16+03:00'
 title = 'VisualCard Enters Maintenance Mode'
 +++
 
-The first version of VisualCard, which was v0.1.0, was released on May 9th, 2022, to provide suppot for thr most basic features of the vCard specifications v2.1, v3.0, and v4.0. Since then, we've expanded the library to add new features and new enhancements to make this vCard parser smoother and more reliable than before during four years of new versions.
+The first version of VisualCard, which was v0.1.0, was released on February 20th, 2023, to provide suppot for thr most basic features of the vCard specifications v2.1, v3.0, and v4.0. Since then, we've expanded the library to add new features and new enhancements to make this vCard parser smoother and more reliable than before during four years of new versions.
 
-VisualCard has become 4 years old, and there was a new major version, v4.0.0, which was released on February 2025. Since then, only minor updates were being done as we were evaluating whether we continue to add new features or to mark this project as feature-complete.
+VisualCard has become more than 3 years old, and there was a new major version, v4.0.0, which was released on February 2025. Since then, only minor updates were being done as we were evaluating whether we continue to add new features or to mark this project as feature-complete.
 
 VisualCard v1.0 was released to give VisualCard a complete overhaul when it comes to parsing contacts. This makes sure that more vCards can be parsed, and that global line folding works everywhere. The second major version, v2.0, was released for nested cards and UIDs, while v3.0 was released to add more features to the point that we've implemented almost the entire set of RFCs for cards.
 
