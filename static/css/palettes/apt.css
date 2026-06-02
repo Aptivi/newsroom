@@ -48,7 +48,7 @@
 
     /* Color palette configuration */
     --base00: var(--apt-accent-back);
-    --base01: var(--apt-accent-back-alternative);
+    --base01: var(--apt-accent-back);
     --base02: var(--apt-accent-back);
     --base03: var(--apt-accent-shade-1);
     --base04: var(--apt-accent-1);
