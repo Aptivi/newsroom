@@ -3,7 +3,7 @@ date = '2026-03-29T12:57:26Z'
 title = ''
 +++
 
-**Welcome to Aptivi Newsroom!**
+# Welcome to Aptivi Newsroom!
 
 This is a dedicated news site for Aptivi projects that contains press releases, project updates, and other Aptivi-related announcements. This is a main place for such announcements as we are making changes to our projects, such as new releases, new improvements, and new updates.
 
