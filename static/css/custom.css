@@ -32,11 +32,6 @@
 
 .page__body, pre {
     box-shadow: unset !important;
-    padding: 1rem;
-    border: solid;
-    border-color: var(--apt-accent-1);
-    border-width: var(--apt-styling-border-width);
-    border-radius: var(--apt-styling-border-radius);
     font-family: var(--apt-font-style-sans);
 }
 
