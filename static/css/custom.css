@@ -89,3 +89,11 @@ h3 {
     height: 3rem;
     margin-right: 1rem;
 }
+
+@media (min-width: 45rem) {
+    .page {
+        grid-template-areas: "header header" "body aside" "footer footer";
+        grid-template-columns: minmax(0, 1fr) 20rem;
+        grid-column-gap: 2rem;
+    }
+}
