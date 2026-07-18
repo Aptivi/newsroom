@@ -23,7 +23,7 @@ In order to migrate your project from the old-school loose Python script files t
 2. Install the [`aptivi-adt`](https://pypi.org/project/aptivi-adt/) PIP package using `pip install --upgrade aptivi-adt`
 3. Verify that ADT works using `adt`
 4. Go to the directory of your project
-5. Remove the `tools` submodule, which is usually `git submodule deinit tools`
+5. Remove the `tools` submodule, which is usually `git submodule deinit tools`, then delete its folder
 6. Edit the `.gitmodules` file to remove references to the `tools` submodule
 7. Edit all scripts, Makefiles, and other files to point to the new `adt` executable
 8. Make a Git commit using `git` and push the changes to the remote
