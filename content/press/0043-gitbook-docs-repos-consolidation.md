@@ -13,7 +13,7 @@ Starting from today, we have consolidated all GitBook documentation repositories
   * `aptivi-stable`: Stores documentation for all supported versions of our projects within our support policy, taken from the rolling documentation, and is not updated for new version series. This is available only for Aptivi projects that support backports.
   * `aptivi-deprecated`: Stores all obsolete documentation for past Aptivi projects that went out of support during the entire lifetime.
 
-This means that documentation repositories like `nitrocid-manual` and `terminaux-manual` have been consolidated to the `aptivi` repository, while repositories like `nks-manual-0.1.0-rtm` and `nks-manual-0.2.0-rtm` have been consolidated to the `aptivi-stable` repository, and all are found in the Aptivi Docs organization on GitHub. GitLab is the primary host, with GitHub aa the mirror, to guarantee synchronization.
+This means that documentation repositories like `nitrocid-ks-manual` and `terminaux-manual` have been consolidated to the `aptivi` repository, while repositories like `nks-manual-0.1.0-rtm` and `nks-manual-0.2.0-rtm` have been consolidated to the `aptivi-stable` repository, and all are found in the Aptivi Docs organization on GitHub. GitLab is the primary host, with GitHub aa the mirror, to guarantee synchronization.
 
 You can access the following repositories on GitLab:
 
