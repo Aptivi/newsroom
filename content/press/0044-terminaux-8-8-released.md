@@ -3,6 +3,8 @@ date = '2026-10-01T11:42:14+03:00'
 title = 'Terminaux 8.8 Released'
 +++
 
+***UPDATE: Terminaux 8.8.1.1 adds a missing feature that was supposed to ship with 8.0, which is a way for terminal reader users to determine the cancellation state.***
+
 Since the release of Terminaux v8.0 on October 13th, 2025, more than six months came and went with continuous bug fix and feature releases, which brought improvements to all the console applications that are written in C#. This version was a long-term support release that added many interesting features while improving the performance of all console applications in all platforms, including Windows, macOS, and Linux.
 
 In an effort to keep providing a minimal set of feature additions while adding bug fixes and general improvements, we are very thrilled to release the eighth point release for Terminaux v8.x series today!
@@ -19,13 +21,15 @@ To solve this problem, we've decided to add an extra property to the input reade
 
 Additionally, input informational boxes are now aware of the input cancellation scenario where a user might press `ESC` to cancel input in informational boxes, so we've added an extra argument to the input infobox function, called `out bool done`, that lets graphical apps specify whether the input was processed or not. This way, if a user requests cancellation using ESC, this variable would turn to false, and apps use this value to determine whether cancellation is requested.
 
-You can check the cancellation state from the input reader settings instance like this (after `Read()` is called):
+You can check the cancellation state after `Read()` is called like this:
 
 ```csharp
-done = !(readerSettings.state?.Cancelled ?? false);
+string input = TermReader.Read(out bool done);
+if (!done)
+    return;
 ```
 
-Input infoboxes abstract this from you using the `done` output argument, meanint:
+Input infoboxes also provide the `done` output argument, meaning:
 
   * `true`: if input was submitted (for example, `ENTER` was pressed)
   * `false`: if input was cancelled or an error occurred (for example, `ESC` or `CTRL + C` was pressed)
